@@ -6,6 +6,8 @@ The Backend Database will hold organizer, event calender, event entry, venue/loc
 
 This will enable supporting a Smart Calendar, Smart Contacts, Smart News, etc etc etc.
 
+This repository was formerly named db-smart-calendar-sql but will now contain schema for all Smart Social project data.
+
 ## Project Policies
 
 Unless otherwise and specifically indicated with replacement files in this repository, this project will adhere to the default Code for Vegas Foundation policies for Code of Conduct and Contributing, found at
